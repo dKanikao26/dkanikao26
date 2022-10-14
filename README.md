@@ -1,7 +1,7 @@
 <p align="center">"Hello, I'm Kanika. I do CODE" </p>
 
 <br />
-<p align="center"><img src="<img src="https://octodex.github.com/images/motherhubbertocat.png" width="50">I'm a self-taught passionate  developer from Punjab :) </p>
+<p align="center"><img src="<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">I'm a self-taught passionate  developer from Punjab :) </p>
 
 <p>  I am a passionate Developer . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
 
